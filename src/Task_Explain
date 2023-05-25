@@ -7,3 +7,4 @@ Warm_up_challenges
 
 Arrays
 1. 6x6 Array -> find maxSum in every hourglass. List<List<Integer>>
+2. Rotate ArrayList, how many times you are give by user
