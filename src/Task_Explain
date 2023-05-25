@@ -6,4 +6,4 @@ Warm_up_challenges
 4. Repeat String 'a' -> how many times is repeat char 'a', after we do it new String.
 
 Arrays
-1.
+1. 6x6 Array -> find maxSum in every hourglass. List<List<Integer>>
