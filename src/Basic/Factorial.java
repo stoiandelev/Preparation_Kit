@@ -25,7 +25,6 @@ public class Factorial {
 
     }
 
-
     /**
      * A program is called recursive when an entity calls itself.
      * A program is call iterative when there is a loop

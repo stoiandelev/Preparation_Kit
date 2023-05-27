@@ -9,6 +9,7 @@ public class Anagram {
      * разместване на буквите на низа. С други думи, можем да кажем, че два низа са анаграми,
      * ако съдържат едни и същи знаци, но в различен ред.
      * boolean: If  and  are case-insensitive anagrams, return true. Otherwise, return false.
+     * асо-оса
      */
 
     public static void main(String[] args) {
