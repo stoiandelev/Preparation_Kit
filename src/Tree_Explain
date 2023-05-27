@@ -1,5 +1,4 @@
 String operation:
-
 Counting_Valleys
 RepeatedString
 
@@ -7,7 +6,6 @@ List operation:
 6x6 Array
 LeftRotation
 HashTablesRansomNote
-
 Counting_Valleys
 SockMerchant_List_Pairs
 
@@ -15,5 +13,10 @@ Arrays operation:
 6x6 Array
 LeftRotation
 Minimum swap in array
+
+HashSet operation:
+TwoStrings
+
+
 
 
