@@ -14,3 +14,4 @@ Arrays
 Dictionaries And Hashmaps
 1. HashTablesRansomNote -> Two list compare words.
 2. TwoStrings -> determine if they share a common substring.
+3. SherlockAndAnagrams -> The number of pairs of substrings of the string that are anagrams of each other.
