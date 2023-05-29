@@ -12,17 +12,24 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-//10
-//1 3
-//2 3
-//3 2
-//1 4
-//1 5
-//1 5
-//1 4
-//3 2
+//10        8
+//1 3       1 5
+//2 3       1 6
+//3 2       3 2
+//1 4       1 10
+//1 5       1 10
+//1 5       1 6
+//1 4       2 5
+//3 2       3 2
 //2 4
 //3 2
+
+/**
+ * You are given "numberOfQueries" queries. Each query is of the form two integers described below:
+ * 1 ->  Insert x in your data structure.
+ * 2 -> Delete one occurrence of y from your data structure, if present.
+ * 3-> Check if any integer is present whose frequency is exactly . If yes, print 1 else 0.
+ */
 
 
 public class FrequencyQueries {
