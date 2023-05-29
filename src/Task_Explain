@@ -16,3 +16,7 @@ Dictionaries And Hashmaps
 2. TwoStrings -> determine if they share a common substring.
 3. SherlockAndAnagrams -> The number of pairs of substrings of the string that are anagrams of each other.
 4. CountTriplets -> common ratio "r" and i < j < k.
+5. FrequencyQueries
+
+Sorting
+1. BubbleSort ->  Bubble sort with List
