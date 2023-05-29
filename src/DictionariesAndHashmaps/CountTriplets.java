@@ -13,11 +13,16 @@ import java.util.stream.Stream;
  * common ratio "r" and i < j < k.
  */
 
+//geometric progression
+
 /**
  * 4 2
  * 1 2 2 4
  * 1*2 = 2, 2*2 = 4;   1*2 = 2, 2*2 =4;  index -> (0, 1, 3) and (0, 2, 3)
  */
+
+//6 3
+//1 3 9 9 27 81
 
 public class CountTriplets {
 
@@ -61,7 +66,6 @@ public class CountTriplets {
                 long leftResult = left.getOrDefault(number / ratio, 0L);
 
                 long currentResult = rightResult * leftResult;
-
 
                 tripletsCounter = tripletsCounter + currentResult;
             }
