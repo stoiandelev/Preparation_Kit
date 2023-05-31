@@ -21,3 +21,4 @@ Dictionaries And Hashmaps
 Sorting
 1. BubbleSort ->  Bubble sort with List
 2. MarkAndToys -> Sorting and iterate the list
+3. Comparator -> compare two object

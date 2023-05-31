@@ -8,6 +8,12 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+//Given a list of toy prices and an amount to spend,
+// determine the maximum number of gifts he can buy.
+
+//7 50
+//1 12 5 111 200 1000 10
+
 public class MarkAndToys {
     public static void main(String[] args) throws IOException {
 
