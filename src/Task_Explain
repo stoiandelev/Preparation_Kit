@@ -22,3 +22,7 @@ Sorting
 1. BubbleSort ->  Bubble sort with List
 2. MarkAndToys -> Sorting and iterate the list
 3. Comparator -> compare two object
+
+String Manipulation
+1. Anagram - how many delete on two words to have a anagram
+
