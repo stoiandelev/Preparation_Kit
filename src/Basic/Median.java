@@ -17,23 +17,24 @@ public class Median {
         list.add(10);
         list.add(20);
         list.add(30);
+        list.add(30);
 
 
         System.out.println(median(list));
     }
 
-    public static double median(List<Integer> temporaryList) {
-        Collections.sort(temporaryList);
-        int size = temporaryList.size();
+    public static double median(List<Integer> list) {
+        Collections.sort(list);
+        int size = list.size();
 
         //even
         if (size % 2 == 0) {
-            int firstResult = temporaryList.get(size / 2 - 1);
-            int secondResult = temporaryList.get(size / 2);
+            int firstResult = list.get(size / 2 - 1);
+            int secondResult = list.get(size / 2);
             return (firstResult + secondResult) / 2.0;
         //odd
         } else {
-            return temporaryList.get(size / 2);
+            return list.get(size / 2);
         }
     }
 }
