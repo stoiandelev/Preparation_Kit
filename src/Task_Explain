@@ -27,4 +27,4 @@ String Manipulation
 1. Anagram - how many delete on two words to have a anagram
 2. AlternatingCharacters -> find how many delete character does not have matching adjacent characters.
 3. AlternatingCharactersAdvance -> print the String with does not have matching adjacent characters.
-
+4. SpecialStringAgain -> the same character
