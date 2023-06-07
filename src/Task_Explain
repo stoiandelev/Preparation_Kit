@@ -28,3 +28,4 @@ String Manipulation
 2. AlternatingCharacters -> find how many delete character does not have matching adjacent characters.
 3. AlternatingCharactersAdvance -> print the String with does not have matching adjacent characters.
 4. SpecialStringAgain -> the same character
+5. CommonChild -> Longest Common Subsequence
