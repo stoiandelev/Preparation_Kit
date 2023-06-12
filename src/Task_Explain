@@ -5,7 +5,7 @@ Warm_up_challenges
    continues to iterate.
 4. Repeat String 'a' -> how many times is repeat char 'a', after we do it new String.
 
-Arrays
+_3_Arrays
 1. 6x6 Array -> find maxSum in every hourglass. List<List<Integer>>
 2. Rotate ArrayList, how many times you are give by user
 3. New year chaos
@@ -18,9 +18,9 @@ Dictionaries And Hashmaps
 4. CountTriplets -> common ratio "r" and i < j < k.
 5. FrequencyQueries
 
-Sorting
+_5_Sorting
 1. BubbleSort ->  Bubble sort with List
-2. MarkAndToys -> Sorting and iterate the list
+2. MarkAndToys -> _5_Sorting and iterate the list
 3. Comparator -> compare two object
 
 String Manipulation
