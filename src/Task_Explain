@@ -1,4 +1,4 @@
-Warm_up_challenges
+_2_Warm_up_challenges
 1. List with values -> how many pairs of socks can be made from the values in this sheet List.
 2. String charAt -> a tourist walks up and down at sea level, which we consider to be 1
 3. Jumping On The Cloud -> Iterate list, with value 0 and 1, and if we have 1 we miss them and
@@ -11,7 +11,7 @@ _3_Arrays
 3. New year chaos
 4. Minimum swap in array
 
-Dictionaries And Hashmaps
+_4_Dictionaries And Hashmaps
 1. HashTablesRansomNote -> Two list compare words.
 2. TwoStrings -> determine if they share a common substring.
 3. SherlockAndAnagrams -> The number of pairs of substrings of the string that are anagrams of each other.
@@ -23,9 +23,13 @@ _5_Sorting
 2. MarkAndToys -> _5_Sorting and iterate the list
 3. Comparator -> compare two object
 
-String Manipulation
+_6_String Manipulation
 1. Anagram - how many delete on two words to have a anagram
 2. AlternatingCharacters -> find how many delete character does not have matching adjacent characters.
 3. AlternatingCharactersAdvance -> print the String with does not have matching adjacent characters.
 4. SpecialStringAgain -> the same character
 5. CommonChild -> Longest Common Subsequence
+
+_7_GreedyAlgorithms
+1. minimumAbsoluteDifference - in array
+2. LuckBalance
